@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://Linguisht.github.io
+title: Langustry
+tagline: Language industry ideas and observations
+description: Going on twenty years in the language industry, this is a place for me to share and learn.
+paginate: 5
