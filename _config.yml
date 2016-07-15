@@ -4,6 +4,6 @@ markdown: kramdown
 url: http://langustry.com
 baseurl: http://langustry.com/
 title: Langustry
-tagline: Language industry personal points of view
+tagline: Language industry observations
 description: "Language, technology,<br/>the business around it.<br/>My points of view on language industry stuff."
 paginate: 5
