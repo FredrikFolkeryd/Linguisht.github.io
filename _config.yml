@@ -1,9 +1,9 @@
 excerpt_separator: <!--more-->
 highlighter: rouge
 markdown: kramdown
-url: http://langustry.com
-baseurl: http://langustry.com/
-title: Langustry
-tagline: Language industry observations
-description: "Language, technology,<br/>the business around it.<br/>My points of view on language industry stuff."
+url: http://linguisht.github.io
+baseurl: http://linguisht.github.io/
+title: Linguisht
+tagline: Language and technology
+description: "Language, technology, the business around it. My points of view."
 paginate: 5
